@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43655'
     url: http://www.gutenberg.org/2009/agents/43655
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46200#Plowing-On-Sunday
 gutenberg_issued: '2014-07-06'
 gutenberg_type: Text
 identifiers:
