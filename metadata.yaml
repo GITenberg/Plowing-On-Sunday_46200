@@ -1,0 +1,28 @@
+_repo: Plowing-On-Sunday_46200
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46200-h/images/cover.jpg
+creator:
+  author:
+    agent_name: North, Sterling
+    birthdate: 1906
+    deathdate: 1974
+    gutenberg_agent_id: '43655'
+    url: http://www.gutenberg.org/2009/agents/43655
+description: ''
+gutenberg_issued: '2014-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46200'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Farm life -- Fiction'
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Wisconsin -- Fiction'
+title: Plowing On Sunday
+url: http://www.gutenberg.org/ebooks/46200
